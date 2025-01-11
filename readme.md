@@ -79,7 +79,7 @@ docker exec -t -i container_name /bin/bash
 ```
 
 ## Демонстрация работы бота с логированием
-![Alt text]()
+![Alt text](https://github.com/IvanMakhrov/activity_bot/blob/main/images/docker_bot.gif?raw=true)
 
 ## Демонстрация деплоя на render.com
-![Alt text]()
+![Alt text](https://github.com/IvanMakhrov/activity_bot/blob/main/images/render_logs.png?raw=true)
