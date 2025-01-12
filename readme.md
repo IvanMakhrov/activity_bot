@@ -70,7 +70,7 @@ docker build -t activity_bot .
 ```
 4. Создать контейнер и запустить его в Docker указав токены для телеграм бота и для api с количеством калорий
 ```
-run -e ACTIVITY_BOT_TOKEN="" -e CALORIES_TOKEN="" activity_bot
+docker run -e ACTIVITY_BOT_TOKEN="" -e CALORIES_TOKEN="" activity_bot
 ```
 
 Для доступа к логам и изображениям в запущенном боте:<br>
